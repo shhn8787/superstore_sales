@@ -1,0 +1,21 @@
+1. Technology is the highest revenue-generating category, consistently outperforming Furniture and Office Supplies.
+Across all regions, the Technology category leads in total sales, contributing the largest share to company revenue.
+ This is likely due to the higher unit prices and growing demand for electronic devices and accessories. Not only are sales higher, but profit 
+margins in Technology are also among the strongest, indicating both volume and profitability advantages.
+
+2. The West region is the most profitable and dominant in terms of overall sales.
+The dashboard reveals that the West region outpaces other regions in both sales and profit. 
+This suggests either a larger customer base, more strategic product targeting, or better regional marketing performance. 
+This region could serve as a model for others — potentially offering insights into successful product-category combinations or promotional strategies.
+
+3. Sales show strong seasonal trends, with peaks occurring around November and December.
+A clear spike in the line chart occurs toward the end of the year, especially in November, 
+which aligns with holiday shopping periods like Black Friday and Cyber Monday. This seasonal trend 
+could inform inventory planning and marketing efforts for Q4. Conversely, the slowest months 
+(e.g., February or April) may offer opportunities for targeted promotions to lift off-season sales.
+
+4. Office Supplies generate moderate sales but consistently yield the lowest profit margins.
+While Office Supplies contribute a reasonable amount to sales volume, their profitability is noticeably 
+lower than other categories. This indicates either higher costs, lower markups, or over-discounting in 
+this category. It may be worth reviewing pricing strategy or supplier costs to improve margin performance in this segment.
+
